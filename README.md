@@ -11,6 +11,7 @@ In this project, you will delve into the implementation of the dining philosophe
 - [Overview](#overview)
 - [Mandatory Part](#mandatory-part)
 - [Bonus Part](#bonus-part)
+- [Resources](#resources)
 - [License](#license)
 
 ## Introduction
@@ -57,6 +58,10 @@ For more check the [subject](subject.pdf)
     1. Navigate to philo_bonus and type make
     2. type ./philo \<number of philos\> \<time to die\> \<time to eat\> \<time to sleap\> and optional \<num of times each philo must eat\>
     3. Example: ./philo 5 800 200 200 || ./philo 5 800 200 200 7 (7 is the optional arguments which each philo must eat)
+
+## Resources
+There is a list of videos made by code vault in youtube regarding how to work with threads, mutexes and semaphores.
+Check the [link](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
 
 ## License
 
