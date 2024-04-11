@@ -45,6 +45,8 @@ The project simulates philosophers sitting at a round table, alternately eating,
 - Description: Philosophers with processes and semaphores
 - Specific Rules: Forks are placed in the middle of the table and represented by a semaphore; each philosopher is a process.
 
+For more check the [subject](subject.pdf)
+
 ## Usage
 - Clone the repo: git clone \<repository url\>
 - Run Mandatory Part
